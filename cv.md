@@ -22,4 +22,4 @@ function HelloWorld(){
 
 ## Contacts 
 * email: **dehskevich.evgenij@gmail.com**
-* telephone: __+37525XXXXXXX__
+* telephone: __+375259482897__
